@@ -1,4 +1,4 @@
 ---
-title: "YOUR NAME"
-subtitle: "YOUR OCCUPATION"
+title: "jes"
+subtitle: "a goose
 ---
