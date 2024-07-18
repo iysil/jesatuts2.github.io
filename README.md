@@ -1,4 +1,4 @@
 ---
 title: "jes"
-subtitle: "a goose
+subtitle: "a goose"
 ---
